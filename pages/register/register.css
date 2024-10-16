@@ -1,0 +1,20 @@
+.logo{
+	width: 134rpx;
+	height: 134rpx;
+}
+.inputvuew{
+	width: 650rpx;
+	height: 90rpx;
+	background: #F5F5F5;
+	border-radius: 45rpx;
+}
+.loginbtn{
+	width: 650rpx;
+	height: 90rpx;
+	text-align: center;
+	line-height: 90rpx;
+	background: linear-gradient(90deg, #70B42C, #70B42C);
+	box-shadow: 0rpx 0rpx 10rpx 0rpx #70B42C;
+	border-radius: 45rpx;
+	color: white;
+}

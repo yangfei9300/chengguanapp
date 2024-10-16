@@ -1,0 +1,50 @@
+page{
+	background-color: #F9F9F9;
+}
+.topview{
+	width: 750rpx;
+	height: 150rpx;
+	background-color:    #113281;
+}
+.baneers{
+	width: 700rpx;
+	height: 350rpx;
+	background-color: #113281;
+	border-radius: 20rpx;
+}
+.leftline{
+	height: 40rpx;
+	width: 10rpx;
+	background-color:    #113281;
+	border-radius: 100rpx;
+	margin-right: 15rpx;
+}
+.listvie{
+	width: 702rpx;
+	/* height: 397rpx; */
+	background: rgba(255,255,255,1);
+	border-radius: 10rpx;
+	margin-top: 20rpx;
+}
+.menus{
+	width: 700rpx;
+	background: rgba(255,255,255,1);
+	border-radius: 20rpx;
+	margin:25rpx;
+	padding:20rpx;
+}
+.shuju{
+	width: 700rpx;
+	background: rgba(255,255,255,1);
+	border-radius: 20rpx;
+	margin:25rpx;
+	padding:25rpx;
+}
+.btnsub{
+	background-color:    #113281;
+	padding:5rpx 25rpx;
+	font-size: 25rpx;
+	color: white;
+	border-radius: 10rpx;
+	line-height: 40rpx;
+}

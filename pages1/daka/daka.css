@@ -1,0 +1,32 @@
+page{
+	background-color: #F9F9F9;
+}
+.topinfo{
+	padding: 20rpx;
+	background-color: white;
+	margin:20rpx;
+	border-radius: 15rpx;
+	height: 10vh;
+}
+.dakaview{
+	width: 710rpx;
+	margin:20rpx;
+	background-color: white;
+	height: 70vh;
+	border-radius: 15rpx;
+}
+.btndaka{
+	width: 300rpx;
+	height: 300rpx;
+	border-radius: 50%;
+	background-color:    #113281;
+}
+.shangbandaka{
+	color: white;font-weight: bold;
+	font-size: 45rpx;
+}
+.shijians{
+	font-size: 30rpx;
+	font-weight: bold;
+	color: rgba(255, 255, 255, 0.5);
+}

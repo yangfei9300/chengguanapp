@@ -1,0 +1,21 @@
+page{
+	background-color: #F7F6FA;
+}
+.viewsub{
+	width: 700rpx;
+	background: rgba(255,255,255,1);
+	border-radius: 20rpx;
+	margin:25rpx;
+	padding: 20rpx;
+}
+.submit{
+	width: 650rpx;
+	height: 90rpx;
+	background: rgba(245,56,70,1);
+	border-radius: 45rpx;
+	text-align: center;
+	line-height: 90rpx;
+	color: white;
+	position: fixed;bottom: 200rpx;
+	left: 50rpx;
+}

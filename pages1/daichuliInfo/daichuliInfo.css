@@ -1,0 +1,29 @@
+
+.listvie{
+	width: 750rpx;
+	/* height: 397rpx; */
+	background: rgba(255,255,255,1);
+	border-radius: 10rpx;
+	margin-top: 20rpx;
+}
+.menus{
+	width: 700rpx;
+	background: rgba(255,255,255,1);
+	border-radius: 20rpx;
+	margin:25rpx;
+	padding:20rpx;
+}
+.shuju{
+	width: 700rpx;
+	background: rgba(255,255,255,1);
+	border-radius: 20rpx;
+	margin:25rpx;
+	padding:25rpx;
+}
+.btncl{
+	color: white;
+	background-color:    #113281;
+	padding:5rpx 15rpx;
+	border-radius: 120rpx;
+}
+

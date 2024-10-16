@@ -1,0 +1,20 @@
+page{
+	background-color: #F7F6FA;
+}
+.inputview{
+	background-color: white;
+	padding:28rpx 40rpx;
+}
+.inoutal{
+	text-align: right;
+}
+.subbtnn{
+	width: 630rpx;
+	height: 100rpx;
+	background: rgba(210,210,210,0.39);
+	border-radius: 50rpx;
+	text-align: center;
+	line-height: 100rpx;
+	margin:30rpx 60rpx;
+	font-weight: bold;
+}
